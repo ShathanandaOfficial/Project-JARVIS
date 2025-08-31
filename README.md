@@ -78,3 +78,10 @@ This project is licensed under the MIT License.
 
 ---
 
+### 💡 Fun Fact
+
+This project is inspired by Tony Stark’s J.A.R.V.I.S — but it’s built by you! 🚀
+
+```
+
+
