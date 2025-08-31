@@ -1,6 +1,3 @@
-Here’s a **clean, professional README.md** you can use for your JARVIS project 👇
-
-````markdown
 # 🧠 JARVIS - Your Personal Voice Assistant  
 
 JARVIS is an AI-powered voice assistant built with Python. Inspired by Iron Man's J.A.R.V.I.S, it listens to your commands and performs tasks like opening websites, playing songs, and providing information — just like Alexa or Google Assistant.  
@@ -30,17 +27,7 @@ JARVIS is an AI-powered voice assistant built with Python. Inspired by Iron Man'
    ```bash
    git clone https://github.com/your-username/jarvis.git
    cd jarvis
-````
-
-2. Install dependencies
-
-   ```bash
-   pip install speechrecognition pyttsx3
    ```
-
-   (For speech recognition, you may also need to install `pyaudio` separately.)
-
----
 
 ## ▶️ Usage
 
